@@ -1,0 +1,1 @@
+{"scalp_channels": ["F3", "F4", "C3", "C4", "O1", "O2", "A1", "A2"], "eog_channels": ["LOC", "ROC"], "lt_ear_channels": ["ELA", "ELE", "ELI", "ELB1", "ELB", "ELG", "ELK"], "rt_ear_channels": ["ERA", "ERE", "ERI", "ERB1", "ERB", "ERG", "ERK"], "osat_channels": ["OSAT"], "emg_channels": ["CHIN12"], "dc_channels": ["DIF2", "DIF3", "DIF4", "DC1", "DC2", "DC3", "DC4"]}
